@@ -1,0 +1,4 @@
+adafruit_blinka==8.64.0
+adafruit_circuitpython_dht==4.0.9
+RPi.GPIO==0.7.1
+smbus==1.1.post2

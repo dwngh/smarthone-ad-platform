@@ -1,0 +1,1 @@
+from method.proposed import FrequentPatternMiningAD

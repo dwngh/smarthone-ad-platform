@@ -1,0 +1,18 @@
+{
+  "name": "echonet",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "echo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node echo.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.14.1",
+    "node-echonet-lite": "^0.6.0",
+    "serialport": "^13.0.0"
+  }
+}

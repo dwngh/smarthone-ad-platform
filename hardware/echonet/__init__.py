@@ -1,0 +1,1 @@
+from echonet.profile import NodeProfileObject
