@@ -1,0 +1,6 @@
+google-genai>=0.1.1
+python-telegram-bot==21.10
+supabase>=2.4.0
+apscheduler>=3.10.4
+tzlocal>=5.2
+python-dotenv>=1.0.1
